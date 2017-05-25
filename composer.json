@@ -1,0 +1,14 @@
+{
+    "name": "samsung/parser_nomerov2",
+    "require": {
+        "coderockr/php-query": "dev-master",
+        "php-curl-class/php-curl-class": "^7.3"
+    },
+    "authors": [
+        {
+            "name": "VasiliyPhp",
+            "email": "mister.sergeew-v@yandex.ru"
+        }
+    ],
+    "minimum-stability": "dev"
+}
